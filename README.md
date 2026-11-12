@@ -3,9 +3,9 @@
 **UniCesumar · Engenharia de Software · 4º semestre**  
 **Programação Orientada a Objetos · AEP 2026.2 · Segunda entrega**  
 **Integrantes** 
-Maria Eduarda Bueno de Azevedo RA: 25177957-2
-Matheus Rover da Silva RA: 25032458-2
-Samuel de Oliveira Campos RA: 25235501-2 
+Maria Eduarda Bueno de Azevedo RA: 25177957-2, 
+Matheus Rover da Silva RA: 25032458-2, 
+Samuel de Oliveira Campos RA: 25235501-2
 
 **Londrina · 2026**
 
