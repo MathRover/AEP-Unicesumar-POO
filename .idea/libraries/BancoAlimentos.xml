@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BancoAlimentos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BancoAlimentos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
